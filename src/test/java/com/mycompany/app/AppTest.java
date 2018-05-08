@@ -41,7 +41,7 @@ public class AppTest
     }
 	
 	@Test
-    public void testAppMain()
+    public void testAppMain2()
     {
         App.main(null);
         try {
